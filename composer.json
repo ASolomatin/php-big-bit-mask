@@ -1,0 +1,33 @@
+{
+    "name": "asolomatin/php-big-bit-mask",
+    "description": "Bitmask compatible with JavaScript big-bit-mask - the bitmask serializable into a base64-like, url-safe string.",
+    "keywords": [
+        "bitmap"
+    ],
+    "version": "1.0.0",
+    "homepage": "https://github.com/ASolomatin/php-big-bit-mask",
+    "readme": "README.md",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksej Solomatin",
+            "email": "a@solomatin.in.ua"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "asolomatin\\BigBitMask\\": "src/"
+        }
+    },
+    "require-dev": {
+        "atoum/atoum": "^3.4",
+        "atoum/stubs": "^2.6",
+        "squizlabs/php_codesniffer": "^3.5",
+        "atoum/reports-extension": "^3.0"
+    }
+}

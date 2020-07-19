@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "asolomatin",
+        "atoum",
+        "bitmask",
+        "mageekguy",
+        "phpcs",
+        "serializable"
+    ],
+    "phpsab.executablePathCBF": "vendor/bin/phpcbf",
+    "phpsab.executablePathCS": "vendor/bin/phpcs",
+    "phpsab.snifferMode": "onType",
+    "phpsab.standard": "psr12",
+    "[php]": {
+        "editor.defaultFormatter": "valeryanm.vscode-phpsab"
+    },
+}

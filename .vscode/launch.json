@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug tests",
+            "type": "php",
+            "request": "launch",
+            "program": "${workspaceFolder}/vendor/bin/atoum",
+            "args": [
+                "-xc", "xdebug.remote_host=localhost xdebug.remote_handler=dbgp xdebug.remote_port=9000",
+                "-d", "${workspaceFolder}/tests/units"
+            ],
+            "cwd": "${workspaceFolder}",
+            "port": 9000,
+            "runtimeExecutable": "php7.3"
+        }
+    ]
+}
