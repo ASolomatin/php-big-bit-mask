@@ -4,7 +4,8 @@
     "keywords": [
         "bitmap"
     ],
-    "homepage": "https://github.com/ASolomatin/big-bit-mask",
+    "version": "1.0.0",
+    "homepage": "https://github.com/ASolomatin/php-big-bit-mask",
     "readme": "README.md",
     "type": "library",
     "license": "MIT",

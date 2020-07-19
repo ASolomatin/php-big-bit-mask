@@ -1,11 +1,4 @@
-# BigBitMask.NET
-
-[![NuGet][nuget-icon]][nuget-url]
-[![NuGet downloads][nuget-downloads-icon]][nuget-url]
-[![Travis-CI][test-icon]][test-url]
-[![Coverage Status][coverage-icon]][coverage-url]
-[![NuGet Package][packaging-icon]][packaging-url]
-[![GitHub][license-icon]][license-url]
+# PHP big bit mask
 
 ----------------------------------------
 
