@@ -1,11 +1,13 @@
 {
     "cSpell.words": [
+        "Packagist",
         "asolomatin",
         "atoum",
         "bitmask",
         "mageekguy",
         "phpcs",
-        "serializable"
+        "serializable",
+        "strval"
     ],
     "phpsab.executablePathCBF": "vendor/bin/phpcbf",
     "phpsab.executablePathCS": "vendor/bin/phpcs",
